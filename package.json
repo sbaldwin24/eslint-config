@@ -1,0 +1,41 @@
+{
+  "name": "@sbaldwin24/eslint-config",
+  "version": "1.0.0",
+  "description": "Sterling Baldwin's eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests defined :(\" && exit 1"
+  },
+  "author": "Sterling Baldwin",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "eslint-config-airbnb": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-config-prettier": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-jsx-a11y": "*",
+    "eslint-plugin-markdown": "*",
+    "eslint-plugin-prettier": "*",
+    "eslint-plugin-react": "*",
+    "learna": "*",
+    "prettier": "*"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "*",
+    "eslint": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbaldwin24/sbaldwin24-eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint config",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/sbaldwin24/freedomfirst-eslint-config/issues"
+  },
+  "homepage": "https://github.com/sbaldwin24/freedomfirst-eslint-config#readme"
+}
